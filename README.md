@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-### *SOBRE MI:* 👤
+### *SOBRE MI* 👤
 
 ### *ESTUDIOS* 📝
 -  2º curso de FP de ASIR.
