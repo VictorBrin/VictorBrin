@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 **👤 SOBRE MI:**
 
 *ESTUDIOS*
--  actualmente estoy en el 2º año de un curso de FP de ASIR.
+-  Actualmente estoy en el 2º año de un curso de FP de ASIR.
 - 
 
 <!--
