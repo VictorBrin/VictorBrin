@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Víctor 👋
 
 <!--
 **VictorBrin/VictorBrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,8 +6,13 @@
 Here are some ideas to get you started:
 -->
 
-👤 SOBRE MI:
+**👤 SOBRE MI:**
 
+*ESTUDIOS*
+-  actualmente estoy en el 2º año de un curso de FP de ASIR.
+- 
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,3 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+-->
