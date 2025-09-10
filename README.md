@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 
-## **👤 SOBRE MI:**
+### **👤 SOBRE MI:**
 
-## *ESTUDIOS* 📝
+### *ESTUDIOS* 📝
 -  2º curso de FP de ASIR.
 
-## *PROYECTOS* 💡
+### *PROYECTOS* 💡
 - Hasta el mo
 
 <!--
